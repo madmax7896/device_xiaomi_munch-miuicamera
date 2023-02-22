@@ -1,4 +1,4 @@
-# From lisa MIUI V14.0.4.0.TKOEUXM package
+# From munch MIUI V14.0.1.0.TLMMIXM package
 -product/priv-app/MiuiCamera/MiuiCamera.apk:system/priv-app/MiuiCamera/MiuiCamera.apk;OVERRIDES=Camera,Camera2,GoogleCameraGo
 system/lib64/libcamera_algoup_jni.xiaomi.so
 system/lib64/libcamera_mianode_jni.xiaomi.so
